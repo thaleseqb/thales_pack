@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: touschek-pack
+Version: 21.8.23
+Summary: touschek_pack is a package to study and get the most critical loss rate by touschek scattering
+Home-page: 
+Download-URL: 
+Author: Thales Quadros
+Author-email: thales.bastos@lnls.br
+License: MIT License
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.4
+License-File: LICENCE

@@ -1,0 +1,11 @@
+LICENCE
+README.md
+setup.py
+touschek_pack/VERSION
+touschek_pack/__init__.py
+touschek_pack/functions.py
+touschek_pack.egg-info/PKG-INFO
+touschek_pack.egg-info/SOURCES.txt
+touschek_pack.egg-info/dependency_links.txt
+touschek_pack.egg-info/not-zip-safe
+touschek_pack.egg-info/top_level.txt
